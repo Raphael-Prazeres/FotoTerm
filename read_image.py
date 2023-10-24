@@ -17,7 +17,7 @@ class FotoTerm:
     """Classe com métodos para o processamento de imagem
     """
     h = 780 # altura da imagem
-    w = 540 # largura da imagem
+    w = 540 # largura da imagemp
     r = -2.5 # ângulo de rotação
     
     def __init__(self,altura:int,largura:int,angulo:float):
